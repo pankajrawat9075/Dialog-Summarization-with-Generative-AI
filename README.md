@@ -1,6 +1,7 @@
 # Dialog-Summarization-with-Generative-AI
 
 Using Open-Source LLMs like FLAN-T5, built a Dialog Summarization model and did fine-tuning with DialogSum HF Dataset.
+Training and tuning was done on AWS Sagemaker Platform.
 
 **Tasks completeted:**
 # 1. Generative AI Use Case: Summarize Dialogue
